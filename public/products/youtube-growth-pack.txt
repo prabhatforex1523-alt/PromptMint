@@ -1,0 +1,711 @@
+Title: YouTube Growth Pack
+
+Intro:
+This premium YouTube prompt pack helps creators grow faster using AI.
+
+Section: Viral Title Prompts
+
+1. High-CTR Title Expansion
+Prompt:
+You are a YouTube title strategist for [NICHE] creators.
+Generate 20 title options for a video about [TOPIC] aimed at [AUDIENCE].
+Output format:
+- 5 curiosity-driven titles
+- 5 benefit-driven titles
+- 5 proof-driven titles
+- 5 contrarian titles
+Rules:
+- Keep most titles under 60 characters
+- Avoid vague words like "amazing" or "best ever"
+- Make each title specific enough to promise a clear outcome
+- Optimize for [CREATOR_LEVEL] creators and [CHANNEL_STYLE] channels
+
+2. Search and Suggest Hybrid Titles
+Prompt:
+You are a YouTube SEO and packaging expert.
+Create 15 YouTube titles for [TOPIC] in the [NICHE] niche for [AUDIENCE].
+Output format:
+- Column 1: Title
+- Column 2: Primary search phrase
+- Column 3: Why it could win suggested traffic
+Rules:
+- Put the strongest keyword near the front when natural
+- Do not make titles sound robotic
+- Keep them clickable without becoming misleading
+
+3. Faceless Channel Title Pack
+Prompt:
+You are a growth strategist for faceless YouTube channels.
+Write 18 high-performing title ideas for a [CHANNEL_STYLE] channel about [TOPIC] in [NICHE] targeting [AUDIENCE].
+Output format:
+- 6 educational titles
+- 6 story-style titles
+- 6 list-style titles
+Rules:
+- Prioritize clarity and watchability
+- Make titles suitable for voiceover-led or edited formats
+- Avoid titles that depend on personality-driven branding
+
+4. Beginner-Friendly Tutorial Titles
+Prompt:
+You are a YouTube strategist helping beginner creators.
+Generate 15 tutorial-style titles about [TOPIC] for [AUDIENCE] in [NICHE].
+Output format:
+- 5 beginner-intent titles
+- 5 quick-win titles
+- 5 mistake-avoidance titles
+Rules:
+- Make each title easy to understand at a glance
+- Emphasize practical outcomes
+- Keep the tone confident, simple, and useful
+
+5. Contrarian Title Angles
+Prompt:
+You are a YouTube packaging expert focused on pattern-breaking ideas.
+Write 12 contrarian title options for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Title
+- Core contrarian angle
+- Risk level: low, medium, or high
+Rules:
+- Use strong opinions without sounding fake
+- Make the claim defendable within the video
+- Avoid empty shock value
+
+6. Transformation Title Builder
+Prompt:
+You are a transformation-focused YouTube title writer.
+Generate 15 before-and-after style titles for [TOPIC] aimed at [AUDIENCE] in [NICHE].
+Output format:
+- 5 time-based transformation titles
+- 5 skill-improvement titles
+- 5 result-based transformation titles
+Rules:
+- Highlight a believable change
+- Make the benefit concrete
+- Avoid vague transformation wording
+
+7. Series Title Planner
+Prompt:
+You are a YouTube content planner building a repeatable series.
+Create a 10-video title series around [TOPIC] for a [CHANNEL_STYLE] channel in [NICHE] targeting [AUDIENCE].
+Output format:
+- Episode number
+- Title
+- Why it fits the series arc
+Rules:
+- Keep the titles consistent but not repetitive
+- Make each title able to stand on its own
+- Progress from beginner-friendly to deeper topics
+
+8. Underperforming Title Rewrite
+Prompt:
+You are a YouTube growth consultant.
+Rewrite this underperforming title for a video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- 10 improved versions
+- 1 sentence explaining why the original title is weak
+- 1 sentence explaining which rewrite is strongest and why
+Rules:
+- Improve clarity, tension, and payoff
+- Keep the real promise of the video intact
+- Do not use clickbait that the content cannot support
+
+9. Title Split-Test Matrix
+Prompt:
+You are a YouTube optimization strategist.
+Generate a split-test matrix of 12 title variations for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- 3 keyword-led titles
+- 3 curiosity-led titles
+- 3 proof-led titles
+- 3 emotional-result titles
+Rules:
+- Make the difference between variants obvious
+- Keep titles short enough for mobile
+- Ensure each title tests a distinct angle
+
+10. Suggested Feed Title Booster
+Prompt:
+You are a YouTube packaging strategist optimizing for browse and suggested traffic.
+Create 15 titles for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Title
+- Emotional trigger used
+- Why someone would click from suggested videos
+Rules:
+- Prioritize intrigue plus clarity
+- Make the first 3 words strong
+- Avoid title structures that feel generic or overused
+
+Section: Hook Prompts
+
+11. First 15 Seconds Hook Variations
+Prompt:
+You are a YouTube retention strategist.
+Write 12 opening hooks for a video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- 4 curiosity hooks
+- 4 direct-benefit hooks
+- 4 mistake-based hooks
+Rules:
+- Keep each hook under 22 words
+- Make the hook easy to say out loud
+- Ensure the hook leads naturally into the main content
+
+12. Proof-Based Opening Hooks
+Prompt:
+You are a YouTube scriptwriter focused on authority and proof.
+Create 10 proof-led opening hooks for a video about [TOPIC] aimed at [AUDIENCE] in [NICHE].
+Output format:
+- Hook
+- Type of proof used: personal result, case study, data point, or experiment
+Rules:
+- Make proof feel credible and specific
+- Avoid exaggerated claims
+- Keep the hook sharp and confident
+
+13. Story-Driven Hooks
+Prompt:
+You are a storytelling specialist for YouTube creators.
+Write 10 story-led hooks for [TOPIC] in [NICHE] aimed at [AUDIENCE].
+Output format:
+- Hook
+- Why it creates tension
+- Best use case: beginner, intermediate, or faceless channel
+Rules:
+- Start with a situation, mistake, surprise, or conflict
+- Keep the hook compact
+- Make the viewer want the next sentence
+
+14. Faceless Voiceover Hooks
+Prompt:
+You are a script strategist for faceless YouTube channels.
+Create 12 voiceover-friendly hooks for a [CHANNEL_STYLE] video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook line
+- Suggested matching visual
+- Suggested pacing style
+Rules:
+- Hooks must work without on-camera personality
+- Make visuals easy to support with stock footage or screen recordings
+- Keep wording simple and cinematic
+
+15. Tutorial Hook Builder
+Prompt:
+You are a YouTube tutorial strategist.
+Write 10 tutorial opening hooks for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- What outcome is promised
+- What problem is acknowledged
+Rules:
+- Promise a clear result fast
+- Do not sound overly formal
+- Keep each hook beginner-friendly but not simplistic
+
+16. Pattern Interrupt Hooks
+Prompt:
+You are a retention-focused YouTube creative director.
+Generate 10 pattern-interrupt hooks for a video on [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- Pattern interrupt type
+- Why it creates immediate attention
+Rules:
+- Use surprise, contradiction, or unexpected framing
+- Do not confuse the viewer
+- Make the next segment easy to transition into
+
+17. Curiosity Loop Hooks
+Prompt:
+You are a YouTube strategist specializing in open loops.
+Write 10 hooks for [TOPIC] in [NICHE] for [AUDIENCE] that create curiosity without sounding manipulative.
+Output format:
+- Hook
+- What question it makes the viewer ask
+- Where the payoff should happen in the video
+Rules:
+- Use a real unresolved point
+- Avoid fake mystery
+- Make the promise worth waiting for
+
+18. Audience Pain Point Hooks
+Prompt:
+You are a growth strategist for [NICHE] channels.
+Create 12 opening hooks for a video about [TOPIC] aimed at [AUDIENCE].
+Output format:
+- Hook
+- Pain point targeted
+- Emotional tone
+Rules:
+- Start from a real frustration, not a generic problem
+- Make the viewer feel understood immediately
+- Keep hooks conversational and direct
+
+19. Retention-First Intro Script
+Prompt:
+You are a YouTube retention editor.
+Write a 30-second intro script for [TOPIC] in [NICHE] targeting [AUDIENCE].
+Output format:
+- Hook line
+- Setup line
+- Why viewers should keep watching
+- Transition into the first segment
+Rules:
+- Keep the total script under 90 words
+- Remove filler or self-introduction unless essential
+- Make it usable for [CREATOR_LEVEL] creators and [CHANNEL_STYLE] channels
+
+20. Low-Energy Hook Rewrite
+Prompt:
+You are a YouTube script doctor.
+Take this weak intro for a video about [TOPIC] in [NICHE] for [AUDIENCE] and rewrite it.
+Output format:
+- 1 short diagnosis of why the original intro fails
+- 5 stronger rewritten hooks
+- 1 best final version
+Rules:
+- Increase tension, clarity, and payoff
+- Keep the creator's tone where possible
+- Do not add hype without substance
+
+Section: Thumbnail Prompts
+
+21. Thumbnail Text Pack
+Prompt:
+You are a YouTube thumbnail strategist.
+Generate 20 thumbnail text options for a video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- 5 curiosity text options
+- 5 result-focused text options
+- 5 shock or contrast text options
+- 5 minimalist text options
+Rules:
+- Keep each option between 1 and 4 words
+- Avoid repeating the title word for word
+- Make every option readable on mobile
+
+22. Thumbnail Concept Board
+Prompt:
+You are a YouTube creative director.
+Create 10 thumbnail concepts for a video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Main visual
+- Subject expression or focal element
+- Background idea
+- Text overlay
+- Emotional trigger
+Rules:
+- Make each concept distinct
+- Keep visual hierarchy obvious
+- Design for quick comprehension at small size
+
+23. Faceless Thumbnail Concepts
+Prompt:
+You are a packaging strategist for faceless YouTube channels.
+Create 12 thumbnail concepts for a [CHANNEL_STYLE] video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Visual concept
+- Object, chart, screenshot, or symbol to feature
+- Text overlay
+- Why it works without a face
+Rules:
+- Avoid relying on facial reactions
+- Use high-clarity visual storytelling
+- Keep the concept achievable with simple editing
+
+24. Title and Thumbnail Pairings
+Prompt:
+You are a YouTube packaging expert.
+Build 10 title and thumbnail combinations for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Title
+- Thumbnail text
+- Main visual idea
+- Why the pair creates tension without repetition
+Rules:
+- Do not let the title and thumbnail say the exact same thing
+- Make the pair feel cohesive
+- Optimize for curiosity plus clarity
+
+25. Mobile-First Thumbnail Audit
+Prompt:
+You are a YouTube thumbnail reviewer.
+Audit this thumbnail idea for a video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- What is clear
+- What is confusing
+- What will disappear on mobile
+- 5 concrete improvement actions
+Rules:
+- Prioritize simplicity and contrast
+- Focus on one main idea
+- Suggest specific changes, not vague feedback
+
+26. Emotion and Contrast Direction
+Prompt:
+You are a visual strategist for YouTube packaging.
+Generate 8 thumbnail directions for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Emotion to convey
+- Color contrast approach
+- Main subject placement
+- Visual tension element
+Rules:
+- Make the emotional intent obvious
+- Keep contrast strong enough for browse traffic
+- Use layouts that remain readable at small sizes
+
+27. Thumbnail Split-Test Ideas
+Prompt:
+You are a YouTube optimization strategist.
+Create 8 thumbnail split-test concepts for a video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Version A concept
+- Version B concept
+- What variable is being tested
+- Which audience behavior the test may influence
+Rules:
+- Test one big change at a time
+- Use meaningful differences, not tiny tweaks
+- Keep both concepts realistic to produce
+
+28. Object and Composition Prompt
+Prompt:
+You are a thumbnail composition specialist.
+Design 10 composition ideas for a YouTube thumbnail about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Primary object
+- Secondary object
+- Composition layout
+- Empty space usage
+- Why the eye goes where it should
+Rules:
+- Keep the layout uncluttered
+- Use one dominant focal point
+- Make the composition work with or without a face
+
+29. Educational Thumbnail Generator
+Prompt:
+You are a thumbnail strategist for educational YouTube channels.
+Create 10 thumbnail concepts for a teaching video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Concept
+- What result the viewer understands instantly
+- Supporting text
+- Visual symbol or element
+Rules:
+- Make the value obvious at first glance
+- Avoid academic or boring framing
+- Keep the design premium and clean
+
+30. Thumbnail Refresh for Old Videos
+Prompt:
+You are a YouTube growth consultant updating underperforming content.
+Generate 10 fresh thumbnail concepts for an older video about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- New concept
+- Why it is stronger than a typical old-style thumbnail
+- Best matching title angle
+Rules:
+- Modernize the visual language
+- Increase clarity and curiosity
+- Avoid overdesigned or cluttered layouts
+
+Section: YouTube Shorts Prompts
+
+31. Shorts Idea Generator
+Prompt:
+You are a YouTube Shorts strategist.
+Generate 25 Shorts ideas for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Idea
+- Hook line
+- Why it can stop the scroll
+Rules:
+- Keep ideas easy to produce
+- Prioritize shareability and replay value
+- Include options for beginners, intermediate creators, and [CHANNEL_STYLE] channels
+
+32. Faceless Shorts Script Prompt
+Prompt:
+You are a short-form scriptwriter for faceless channels.
+Write 10 YouTube Shorts scripts about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- Main point
+- Final line
+- Suggested visuals
+Rules:
+- Keep each script between 45 and 75 words
+- Make the scripts easy to narrate
+- Ensure the visuals can be created with stock footage, text, or screen capture
+
+33. Loop-Friendly Shorts Builder
+Prompt:
+You are a YouTube Shorts retention strategist.
+Create 10 Shorts concepts for [TOPIC] in [NICHE] for [AUDIENCE] designed to loop naturally.
+Output format:
+- Opening line
+- Middle content
+- Final line that loops back to the start
+- Why the loop works
+Rules:
+- Keep the structure tight
+- Avoid awkward endings
+- Make the viewer want to rewatch immediately
+
+34. Comment-Trigger Shorts Concepts
+Prompt:
+You are a short-form engagement strategist.
+Generate 12 YouTube Shorts ideas about [TOPIC] in [NICHE] for [AUDIENCE] that are likely to spark comments.
+Output format:
+- Idea
+- Comment trigger
+- Best CTA wording
+Rules:
+- Use real opinions, decisions, or mistakes people want to react to
+- Avoid fake controversy
+- Keep the CTA short and natural
+
+35. Shorts Series Planner
+Prompt:
+You are a YouTube growth strategist building a repeatable Shorts series.
+Create a 14-day Shorts series around [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Day number
+- Short concept
+- Hook
+- Goal of the Short
+- Link to future long-form topic
+Rules:
+- Make the sequence cohesive
+- Let each Short stand alone
+- Build momentum across the series
+
+36. Long-Form to Shorts Repurposing
+Prompt:
+You are a content repurposing expert.
+Take a long-form video about [TOPIC] in [NICHE] for [AUDIENCE] and extract 10 Shorts ideas from it.
+Output format:
+- Timestamp or segment source
+- Short idea
+- Hook
+- Why it works independently
+Rules:
+- Choose clips with a clear standalone payoff
+- Avoid context-heavy segments
+- Make the repurposed ideas feel native to Shorts
+
+37. Trend Adaptation Prompt
+Prompt:
+You are a short-form strategist who adapts trends without copying them.
+Create 10 trend-inspired YouTube Shorts concepts for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Trend format
+- Adapted concept
+- Why it fits the niche
+- What makes it original
+Rules:
+- Do not reuse overdone phrases exactly
+- Keep the creator's niche and voice central
+- Focus on relevance over trend-chasing
+
+38. Beginner Creator Shorts Calendar
+Prompt:
+You are a YouTube strategist helping [CREATOR_LEVEL] creators stay consistent.
+Build a 30-day YouTube Shorts posting plan for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Day
+- Short idea
+- Production difficulty: easy, medium, or advanced
+- Goal: views, subscribers, comments, or traffic
+Rules:
+- Keep most ideas simple to execute
+- Balance growth-focused content with authority-building content
+- Include options for [CHANNEL_STYLE] channels
+
+39. Product or Offer Shorts CTA Prompt
+Prompt:
+You are a short-form marketer for YouTube creators.
+Write 10 Shorts concepts for [TOPIC] in [NICHE] for [AUDIENCE] that softly lead viewers toward [OFFER OR NEXT STEP].
+Output format:
+- Hook
+- Value delivered
+- CTA line
+- Why the CTA feels natural
+Rules:
+- Lead with value before promotion
+- Keep the CTA concise
+- Avoid sounding overly salesy
+
+40. Shorts Retention Repair Prompt
+Prompt:
+You are a short-form retention editor.
+Review this weak YouTube Short about [TOPIC] in [NICHE] for [AUDIENCE] and rebuild it.
+Output format:
+- 1 short diagnosis
+- Improved first line
+- Better middle structure
+- Stronger ending
+- 3 pacing notes
+Rules:
+- Remove any slow setup
+- Add faster payoff
+- Make every second feel necessary
+
+Section: Long-Form Script Prompts
+
+41. Full Long-Form Outline
+Prompt:
+You are a senior YouTube script strategist.
+Create a full long-form video outline for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Title idea
+- Hook
+- Intro setup
+- 5 to 7 core sections
+- Retention moments
+- Closing CTA
+Rules:
+- Build the outline for a [CHANNEL_STYLE] channel
+- Make the learning flow obvious
+- Add curiosity gaps at smart points
+
+42. Story-Led Educational Script
+Prompt:
+You are a YouTube scriptwriter who blends storytelling with education.
+Write a long-form script for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- Story-based intro
+- Teaching sections
+- Examples
+- Conclusion
+Rules:
+- Use clear transitions
+- Keep the tone engaging but not dramatic
+- Make the script suitable for [CREATOR_LEVEL] creators
+
+43. Faceless Documentary Script
+Prompt:
+You are a documentary-style YouTube writer for faceless channels.
+Create a long-form script on [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Opening narration
+- Segment breakdown
+- Key facts or insights
+- Visual suggestions
+- Ending line
+Rules:
+- Make the script work with voiceover, b-roll, screenshots, and simple motion graphics
+- Keep the pacing cinematic but clear
+- Avoid on-camera dependent lines
+
+44. Tutorial Deep-Dive Script
+Prompt:
+You are a YouTube tutorial strategist.
+Write a detailed tutorial script for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Intro hook
+- What the viewer will learn
+- Step-by-step teaching sections
+- Common mistakes
+- Final recap
+Rules:
+- Explain the "why" behind each step
+- Keep instructions practical
+- Make the script useful for both beginners and intermediate viewers
+
+45. List-Style Script Builder
+Prompt:
+You are a YouTube writer specializing in list videos.
+Create a long-form list-style script for [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- List item 1 through 10
+- Best transition lines
+- Final takeaway
+Rules:
+- Make each point distinct
+- Order points for rising interest
+- Avoid filler explanations
+
+46. Comparison and Review Script
+Prompt:
+You are a YouTube strategist writing comparison videos.
+Write a comparison script for [TOPIC OPTION A] versus [TOPIC OPTION B] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- Who each option is for
+- Pros
+- Cons
+- Best use cases
+- Final recommendation
+Rules:
+- Be balanced and clear
+- Make the decision criteria easy to understand
+- Keep the final recommendation honest and actionable
+
+47. Myth-Busting Script
+Prompt:
+You are a YouTube educator creating a myth-busting video.
+Write a long-form script about common myths related to [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Hook
+- 5 myths
+- Why each myth sounds believable
+- What is actually true
+- Final summary
+Rules:
+- Keep each myth practical and relevant
+- Use confident but non-condescending language
+- Make the script highly shareable
+
+48. Audience Retention Pass
+Prompt:
+You are a YouTube retention editor.
+Review this long-form script about [TOPIC] in [NICHE] for [AUDIENCE].
+Output format:
+- Sections that are strongest
+- Sections likely to lose viewers
+- 10 specific retention improvements
+- Suggested re-ordering if needed
+Rules:
+- Focus on pacing, clarity, and payoff
+- Remove repetition
+- Preserve the creator's core message
+
+49. B-Roll and Visual Cue Planner
+Prompt:
+You are a YouTube producer.
+Turn this long-form script about [TOPIC] in [NICHE] for [AUDIENCE] into a visual production guide.
+Output format:
+- Script section
+- Suggested on-screen visual
+- B-roll idea
+- Text overlay if needed
+- Purpose of the visual
+Rules:
+- Keep visuals realistic for [CHANNEL_STYLE] production
+- Use visuals to increase understanding and retention
+- Avoid unnecessary visual clutter
+
+50. Script-to-Recording Blueprint
+Prompt:
+You are a YouTube production coach.
+Convert this script about [TOPIC] in [NICHE] for [AUDIENCE] into a recording blueprint.
+Output format:
+- Delivery notes
+- Emphasis points
+- Pause points
+- Shot or scene suggestions
+- Editing notes for pacing
+Rules:
+- Make the instructions practical for real recording sessions
+- Adapt for beginners, intermediate creators, and faceless channels
+- Focus on clarity, energy, and audience retention
+
+Closing Note:
+Use these prompts consistently to maximize results.

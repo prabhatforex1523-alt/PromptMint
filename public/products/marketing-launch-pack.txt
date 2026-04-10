@@ -1,0 +1,183 @@
+🚀 Marketing Launch Pack
+
+Launch products, grow faster, and create high-converting marketing content using AI.
+
+This pack is designed for founders, creators, and marketers who want results — not guesswork.
+
+---
+
+📌 HOW TO USE:
+
+1. Copy any prompt
+2. Paste into ChatGPT / Gemini
+3. Replace placeholders
+4. Get instant marketing output
+
+---
+
+📢 SECTION 1: AD COPY
+
+1. Write a high-converting ad for [PRODUCT] targeting [AUDIENCE].
+2. Create 5 ad variations for [PRODUCT].
+3. Write emotional ad copy for [PRODUCT].
+
+---
+
+🚀 SECTION 2: PRODUCT LAUNCH
+
+4. Create a launch plan for [PRODUCT].
+5. Write a launch announcement.
+6. Create pre-launch hype strategy.
+
+---
+
+📱 SECTION 3: SOCIAL MEDIA
+
+7. Generate 10 viral post ideas for [NICHE].
+8. Write engaging captions for [PLATFORM].
+9. Create content calendar.
+
+---
+
+🎯 SECTION 4: AUDIENCE TARGETING
+
+10. Define ideal audience for [PRODUCT].
+11. Suggest targeting strategy.
+12. Identify pain points.
+
+---
+
+📈 SECTION 5: SALES FUNNEL
+
+13. Create landing page copy.
+14. Write CTA variations.
+15. Build conversion strategy.
+
+---
+
+💡 FINAL NOTE:
+
+Use these prompts to create better marketing faster and grow your business.
+
+🚀 Start launching like a pro.
+
+
+
+ Title: Marketing Launch Pack
+
+Intro:
+This pack helps marketers launch products with stronger messaging, cleaner campaign structure, and better execution across ads, landing pages, social content, and audience targeting. Each prompt is practical enough to use in real launch work, not just brainstorming.
+
+Section: Ad Copy
+
+1. Primary Ad Copy Generator
+Prompt:
+You are a direct-response copywriter. Write 10 primary text ads for [PRODUCT] targeting [AUDIENCE]. Focus on one core pain point, one key outcome, and one clear call to action in each version.
+
+2. Short Paid Social Variations
+Prompt:
+You are a performance marketer. Create 20 short ad copy variations for [PRODUCT] for Meta or TikTok. Keep each version punchy, clear, and easy to test across different creative angles.
+
+3. Benefit-Led Ad Copy
+Prompt:
+You are a conversion-focused marketer. Write 8 ad variations for [PRODUCT] where each version leads with a different customer benefit. Keep the tone modern and specific.
+
+4. Objection-Handling Ad Copy
+Prompt:
+You are a paid acquisition specialist. Create ad copy for [PRODUCT] that directly addresses objections about price, trust, effort, or results. Keep the copy persuasive without sounding defensive.
+
+5. Creative Angle Testing Prompt
+Prompt:
+You are a growth marketer. Generate 12 ad concepts for [PRODUCT] using these angle types: urgency, curiosity, transformation, proof, simplicity, and comparison. For each angle, include a headline, short body copy, and CTA.
+
+Section: Product Launch
+
+6. Launch Positioning Prompt
+Prompt:
+You are a senior product marketer. Create a launch positioning statement for [PRODUCT] aimed at [AUDIENCE]. Include the problem, the promised outcome, the differentiator, and a concise positioning line.
+
+7. Launch Plan Builder
+Prompt:
+You are a launch strategist. Create a 3-week launch plan for [PRODUCT]. Break it into pre-launch, launch week, and post-launch actions. Include priorities, deliverables, and communication goals.
+
+8. Launch Messaging Hierarchy
+Prompt:
+You are a product messaging consultant. Build a message hierarchy for [PRODUCT] that includes the top value proposition, 3 supporting proof points, 3 audience-specific messages, and a core CTA.
+
+9. Launch Email Sequence
+Prompt:
+You are an email launch specialist. Draft a 5-email launch sequence for [PRODUCT]. Include subject line, opening hook, core message, urgency or proof element, and final CTA for each email.
+
+10. Offer Stack Builder
+Prompt:
+You are a sales copy strategist. Create a launch offer for [PRODUCT] including the core product, bonus ideas, urgency mechanism, guarantee angle, and ideal CTA phrasing.
+
+Section: Landing Pages
+
+11. Headline and Subheadline Generator
+Prompt:
+You are a landing page copywriter. Write 15 headline options and 10 supporting subheadlines for [PRODUCT]. Make them clear, outcome-focused, and tailored to [AUDIENCE].
+
+12. Full Landing Page Outline
+Prompt:
+You are a conversion copy expert. Build a landing page outline for [PRODUCT] including hero section, pain points, benefits, proof, objections, offer, FAQ, and CTA placement.
+
+13. Benefit Section Writer
+Prompt:
+You are a marketing writer. Turn these product features into benefit-driven landing page copy. Explain what the feature is, why it matters, and what practical result it gives the customer.
+
+14. FAQ and Objection Prompt
+Prompt:
+You are a conversion strategist. Generate 12 frequently asked questions for a landing page selling [PRODUCT], along with persuasive but honest answers that reduce hesitation and improve clarity.
+
+15. Landing Page Optimization Review
+Prompt:
+You are a CRO consultant. Review this landing page draft and suggest improvements for message clarity, CTA strength, proof placement, scannability, and objection handling.
+
+Section: Social Media
+
+16. Launch Content Calendar
+Prompt:
+You are a social media strategist. Create a 14-day social content calendar for launching [PRODUCT] on [PLATFORMS]. Include post concept, hook, content format, and CTA for each day.
+
+17. Social Hooks Pack
+Prompt:
+You are a short-form content writer. Write 25 social media hooks for [PRODUCT] across launch teasers, educational posts, proof posts, and direct promotion. Keep them sharp and scroll-stopping.
+
+18. Thread and Carousel Prompt
+Prompt:
+You are a content marketer. Create a detailed carousel outline or thread for [TOPIC RELATED TO PRODUCT]. Include the opening hook, slide-by-slide points, and final CTA to the offer.
+
+19. Comment-to-Conversion Replies
+Prompt:
+You are a community manager. Write 12 reply templates for common launch comments and objections under posts about [PRODUCT]. Make them friendly, concise, and aligned with the brand voice.
+
+20. Repurposing Planner
+Prompt:
+You are a content repurposing strategist. Turn one long-form launch asset into 10 social media posts across different formats. Include what to post, what angle to lead with, and where it fits in the launch timeline.
+
+Section: Audience Targeting
+
+21. Customer Segment Breakdown
+Prompt:
+You are a market research analyst. Break the audience for [PRODUCT] into 5 useful segments. For each one, describe their pain points, desired outcomes, buying triggers, and messaging angle.
+
+22. Ideal Customer Profile Prompt
+Prompt:
+You are a product marketer. Build a clear ideal customer profile for [PRODUCT]. Include role, company or life context, goals, frustrations, objections, and what would make them buy now.
+
+23. Messaging by Segment
+Prompt:
+You are a positioning strategist. Create separate message angles for 3 audience segments for [PRODUCT]. For each segment, write the main promise, objection to overcome, and best CTA wording.
+
+24. Competitor Switching Prompt
+Prompt:
+You are a demand generation strategist. Build messaging for customers who currently use [COMPETITOR OR ALTERNATIVE]. Explain what may frustrate them now, what they want instead, and how [PRODUCT] should be positioned.
+
+25. Paid Audience Testing Ideas
+Prompt:
+You are a paid acquisition strategist. Suggest 10 audience targeting experiments for launching [PRODUCT]. Include demographic, interest, behavior, and pain-point based audience ideas, plus what message each audience should see first.
+
+Closing Note:
+Use these prompts consistently to get the best results.
+The strongest launches come from repetition, testing, and sharper positioning over time, so revisit these prompts as your product and audience evolve.

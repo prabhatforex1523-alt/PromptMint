@@ -1,0 +1,118 @@
+Title: Business Productivity Pack
+
+Intro:
+This pack helps founders, operators, managers, and team leads work faster without losing clarity. The prompts are organized around real business tasks such as summarizing meetings, writing better emails, planning work, breaking down execution, and making better decisions.
+
+Section: Meeting Summaries
+
+1. Executive Summary from Raw Notes
+Prompt:
+You are an executive assistant. Turn the following meeting notes into a polished summary with key decisions, action items, owners, deadlines, and unresolved blockers. Keep the format concise and leadership-ready.
+
+2. Client Call Recap Writer
+Prompt:
+You are a client success manager. Convert this call transcript into a professional recap email. Include goals discussed, concerns raised, commitments made, next steps, and a suggested follow-up timeline.
+
+3. Cross-Functional Meeting Digest
+Prompt:
+You are a chief of staff. Summarize this cross-functional meeting for leadership. Highlight alignment points, conflicts, risks, and any decisions that need executive input.
+
+4. Weekly Leadership Sync Summary
+Prompt:
+You are an operations lead. Turn these notes into a clean summary of the weekly leadership sync. Include wins, problems, decisions, dependencies, and what each leader needs to know next.
+
+5. Action Item Extractor
+Prompt:
+You are a project coordinator. Review these notes and extract every action item. Organize them by owner, urgency, deadline, and blocked versus unblocked status.
+
+Section: Email Writing
+
+6. Clear Internal Update Email
+Prompt:
+You are an internal communications specialist. Write a concise update email about [PROJECT OR TOPIC] for [TEAM OR STAKEHOLDER GROUP]. Include context, current status, major decisions, risks, and the next expected milestone.
+
+7. Difficult Follow-Up Email
+Prompt:
+You are a professional business writer. Draft a polite but firm follow-up email to [PERSON OR TEAM] about [ISSUE]. Keep the tone respectful, clear, and action-oriented. End with a direct next-step request.
+
+8. Client Delay Explanation Email
+Prompt:
+You are an account manager. Write an email explaining a delay in [DELIVERABLE] to a client. Take ownership without sounding defensive, explain what is happening, and propose a realistic new timeline.
+
+9. Stakeholder Approval Request
+Prompt:
+You are a project lead. Draft a short email requesting approval for [PROJECT OR DECISION]. Include what needs approval, why it matters, the timeline impact, and the specific action requested.
+
+10. Decision Recap Email
+Prompt:
+You are a business operator. Write a recap email after a meeting where a decision was made about [TOPIC]. Clearly state the decision, reasoning, owners, deadlines, and what changes from this point forward.
+
+Section: Planning
+
+11. Weekly Priorities Plan
+Prompt:
+You are a chief of staff. Build a one-week priorities plan for [ROLE OR TEAM] based on these goals, deadlines, and constraints. Organize the output into must-do, should-do, and optional work.
+
+12. Quarterly Planning Draft
+Prompt:
+You are a strategy consultant. Create a quarterly plan for [BUSINESS OR TEAM] focused on [GOAL]. Include priorities, metrics, major risks, and a practical 30-60-90 day execution plan.
+
+13. Team Capacity Planner
+Prompt:
+You are an operations planner. Review this list of projects, deadlines, and team capacity. Create a realistic delivery plan that identifies overload, scheduling conflicts, and where priorities should shift.
+
+14. Sprint Planning Assistant
+Prompt:
+You are a product operations specialist. Turn this backlog into a focused sprint plan. Group work by priority, identify dependencies, define the sprint goal, and flag any tickets that should wait.
+
+15. Monthly Review and Reset
+Prompt:
+You are a business coach. Create a monthly review template for [TEAM OR ROLE] that covers wins, misses, process issues, metrics, and top priorities for the next month.
+
+Section: Task Breakdown
+
+16. Project Breakdown Prompt
+Prompt:
+You are a project manager. Break this project goal into phases, milestones, tasks, owners, and deadlines. Make the structure simple enough to move directly into a task manager.
+
+17. Complex Task Simplifier
+Prompt:
+You are an execution coach. Break down this overwhelming task into the smallest useful next steps. Group the tasks into setup, execution, review, and delivery.
+
+18. SOP Builder for Repeating Work
+Prompt:
+You are an operations consultant. Create a standard operating procedure for [PROCESS]. Include objective, required tools, exact steps, quality checks, and common failure points.
+
+19. Delegation Planner
+Prompt:
+You are a team lead. Review this workload and decide what should be delegated, what should stay with the lead, and what should be delayed. Explain the reasoning behind each choice.
+
+20. Deadline Recovery Plan
+Prompt:
+You are a delivery manager. We are behind schedule on [PROJECT]. Create a recovery plan with immediate actions, owner assignments, timeline adjustments, and communication priorities.
+
+Section: Decision-Making
+
+21. Decision Memo Writer
+Prompt:
+You are a strategic advisor. Turn the following background, constraints, and options into a short decision memo. Include context, choices, risks, recommendation, and next steps.
+
+22. Option Comparison Prompt
+Prompt:
+You are a business analyst. Compare these 3 options for [DECISION]. Evaluate them based on cost, effort, speed, risk, strategic fit, and likely upside. End with a clear recommendation.
+
+23. Risk Assessment Assistant
+Prompt:
+You are an operations risk advisor. Analyze this proposed plan and identify operational, financial, communication, and execution risks. Suggest practical ways to reduce each risk.
+
+24. Decision Framing Prompt
+Prompt:
+You are a senior operator. Help frame this decision correctly by clarifying what matters most, what assumptions need testing, what the tradeoffs are, and what success looks like.
+
+25. Post-Decision Review
+Prompt:
+You are a business reviewer. Analyze a past decision using the original context, expected outcomes, and final results. Explain what was right, what was missed, and what the team should learn next time.
+
+Closing Note:
+Use these prompts consistently to get the best results.
+The more context, constraints, and real business information you provide, the more useful and decision-ready the outputs will become.
