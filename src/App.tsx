@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import AudienceCard from './components/AudienceCard'
 import BundleCard from './components/BundleCard'
 import CategoryCard from './components/CategoryCard'
@@ -472,6 +473,7 @@ function App() {
 
       <Footer sections={footerSections} />
       <Toast message={toastMessage} />
+      <Analytics />
     </div>
   )
 }
